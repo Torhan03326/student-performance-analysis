@@ -125,10 +125,10 @@ student-performance-analysis/
 ├── assignment/
 │   └── student_performance_assignment_specification.pdf
 ├── data/
-│   ├── feature_description.txt
 │   ├── Prediction_Sample.xlsx
 │   ├── Students_Performance_Maths.xlsx
-│   └── Students_Performance_Portuguese.xlsx
+│   ├── Students_Performance_Portuguese.xlsx
+│   └── feature_description.txt
 ├── notebook/
 │   └── student_performance_analysis.ipynb
 ├── report/
