@@ -16,16 +16,18 @@ The project uses student performance datasets containing demographic, behavioura
 
 The analysis includes variables such as:
 
+The analysis includes variables such as:
+
 - Study time
 - Absences
 - Past academic failures
 - Parental education
-- Alcohol consumption
+- Family background factors
 - Internet access
-- Romantic relationships
 - Family support
+- Student lifestyle and behavioural variables
 - Final grades
-- Student age and lifestyle-related variables
+- Student age and demographic variables
 
 The project compares student performance across both Mathematics and Portuguese subject datasets.
 
